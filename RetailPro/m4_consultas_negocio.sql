@@ -172,12 +172,13 @@ GROUP BY DATEPART(month,fecha_venta)
 ORDER BY mes_venta;
 
 
-
 --- HALLAZGOS ---
 --- 1. Enero fue el mes de mayor facturación representando aproximadamente el 17% de la facturacion anual ---
 --- 2. El mes de agosto registra la menor facturación del año con $950, representando el 2% de la facturación anual . ---
 --- 3. El producto 1 fue el de mayor facturación concentrando aproximadamente el 49% de la facturación total ---
 --- 4. La facturación promedio mensual fue de aproximadamente $3.647; Enero, Marzo, Septiembre, Noviembre y Diciembre superaron este promedio. ---
+
+
 --- 5. El cliente 3 concentra el 33,19% de la facturación total, siendo el cliente de mayor aporte. --- 
 
 
