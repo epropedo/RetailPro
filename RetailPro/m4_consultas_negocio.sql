@@ -1,4 +1,21 @@
 -----------------------
+  /* Pre_Entrega 3 */
+-----------------------
+
+/* En la Pre-Entrega 3 teníamos lo siguiente */
+
+CREATE TABLE ventas(
+id_venta INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+id_cliente INT FOREIGN KEY REFERENCES clientes(id_cliente),
+id_producto INT FOREIGN KEY REFERENCES productos(id_producto),
+cantidad INT NOT NULL,
+precio_unitario DECIMAL(10,2) NOT NULL,
+fecha_venta DATE NOT NULL
+);
+
+
+
+-----------------------
   /* Pre_Entrega 4 */
 -----------------------
 
