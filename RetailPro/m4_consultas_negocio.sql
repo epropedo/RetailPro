@@ -13,6 +13,16 @@ precio_unitario DECIMAL(10,2) NOT NULL,
 fecha_venta DATE NOT NULL
 );
 
+INSERT INTO ventas VALUES (1, 1, 1, 2, 1200, '2024-03-05');
+INSERT INTO ventas VALUES (2, 2, 2, 5, 28, '2024-03-06');
+INSERT INTO ventas VALUES (3, 3, 3, 1, 450, '2024-03-07');
+INSERT INTO ventas VALUES (4, 1, 4, 2, 120, '2024-03-08');
+INSERT INTO ventas VALUES (5, 4, 5, 3, 130, '2024-03-10');
+INSERT INTO ventas VALUES (6, 2, 6, 4, 95, '2024-03-11');
+INSERT INTO ventas VALUES (7, 5, 1, 1, 1200, '2024-03-12');
+INSERT INTO ventas VALUES (8, 3, 2, 8, 28, '2024-03-13');
+INSERT INTO ventas VALUES (9, 4, 4, 1, 120, '2024-03-14');
+INSERT INTO ventas VALUES (10, 5, 3, 2, 450, '2024-03-15');
 
 
 -----------------------
