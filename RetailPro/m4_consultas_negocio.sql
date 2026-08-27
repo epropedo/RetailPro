@@ -1,7 +1,3 @@
------------------------
-  /* Pre_Entrega 3 */
------------------------
-
 /* En la Pre-Entrega 3 teníamos lo siguiente:
 
 CREATE TABLE ventas(
