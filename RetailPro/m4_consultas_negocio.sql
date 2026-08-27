@@ -2,7 +2,7 @@
   /* Pre_Entrega 3 */
 -----------------------
 
-/* En la Pre-Entrega 3 teníamos lo siguiente */
+/* En la Pre-Entrega 3 teníamos lo siguiente:
 
 CREATE TABLE ventas(
 id_venta INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
@@ -22,8 +22,7 @@ INSERT INTO ventas VALUES (6, 2, 6, 4, 95, '2024-03-11');
 INSERT INTO ventas VALUES (7, 5, 1, 1, 1200, '2024-03-12');
 INSERT INTO ventas VALUES (8, 3, 2, 8, 28, '2024-03-13');
 INSERT INTO ventas VALUES (9, 4, 4, 1, 120, '2024-03-14');
-INSERT INTO ventas VALUES (10, 5, 3, 2, 450, '2024-03-15');
-
+INSERT INTO ventas VALUES (10, 5, 3, 2, 450, '2024-03-15'); */
 
 -----------------------
   /* Pre_Entrega 4 */
